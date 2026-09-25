@@ -1,0 +1,29 @@
+<svg width="64" height="64" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rehaGradientBg" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090A0F" />
+      <stop offset="1" stop-color="#0284C7" />
+    </linearGradient>
+  </defs>
+  <rect width="40" height="40" rx="10" fill="url(#rehaGradientBg)" />
+  <path
+    d="M12 10H22C25.3137 10 28 12.6863 28 16C28 19.3137 25.3137 22 22 22H12V10Z"
+    stroke="white"
+    stroke-width="3.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M12 10V30"
+    stroke="white"
+    stroke-width="3.2"
+    stroke-linecap="round"
+  />
+  <path
+    d="M20 22L27.5 30"
+    stroke="white"
+    stroke-width="3.2"
+    stroke-linecap="round"
+  />
+  <circle cx="28" cy="11" r="2.5" fill="#38BDF8" />
+</svg>
