@@ -56,6 +56,7 @@ export default function Footer() {
             <li><Link href="/pricing" className="hover:text-sky-400 transition-colors">Dispatch Plans</Link></li>
             <li><Link href="/pricing#roi" className="hover:text-sky-400 transition-colors">RPM Calculator</Link></li>
             <li><Link href="/pricing#faq" className="hover:text-sky-400 transition-colors">Carrier FAQ</Link></li>
+            <li><Link href="/careers" className="text-sky-400 font-bold hover:text-white transition-colors">Careers & Hiring ✨</Link></li>
             <li><Link href="/contact" className="hover:text-sky-400 transition-colors">24/7 Desk Hotline</Link></li>
           </ul>
         </div>

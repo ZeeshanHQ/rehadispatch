@@ -12,6 +12,7 @@ const navLinks = [
   { href: "/services", label: "Services & Protocol" },
   { href: "/pricing", label: "Pricing & ROI" },
   { href: "/onboarding", label: "Driver Setup" },
+  { href: "/careers", label: "Careers" },
   { href: "/contact", label: "Dispatch Hub" },
 ];
 
