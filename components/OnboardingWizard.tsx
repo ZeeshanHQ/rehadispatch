@@ -182,7 +182,7 @@ export default function OnboardingWizard() {
                 Welcome To Reha Dispatch.
               </h2>
               <p className="text-slate-600 text-xs sm:text-sm max-w-md mx-auto leading-relaxed">
-                Your dispatch profile has been generated. Your dedicated Senior Dispatch Strategist is conducting a live lane audit right now and will call you within 15 minutes at +1 925 504 0101.
+                Your dispatch profile has been generated. Your dedicated Senior Dispatch Strategist is conducting a live lane audit right now and will call you within 15 minutes at +1 (573) 229-5394.
               </p>
             </div>
 
@@ -197,7 +197,7 @@ export default function OnboardingWizard() {
               </div>
               <div className="flex justify-between text-slate-400">
                 <span>Assigned Dispatch Line:</span>
-                <span className="text-emerald-400 font-bold">+1 925 504 0101</span>
+                <span className="text-emerald-400 font-bold">+1 (573) 229-5394</span>
               </div>
               <div className="flex justify-between text-slate-400">
                 <span>Direct Support Email:</span>
@@ -282,7 +282,7 @@ export default function OnboardingWizard() {
                         type="tel"
                         name="phone"
                         required
-                        placeholder="+1 (925) 504-0101"
+                        placeholder="+1 (573) 229-5394"
                         value={formData.phone}
                         onChange={handleChange}
                         className="w-full px-3.5 py-2.5 rounded-xl bg-slate-50 border border-slate-200 text-slate-900 placeholder-slate-400 focus:outline-none focus:border-blue-600 text-xs font-mono"

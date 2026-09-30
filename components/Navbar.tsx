@@ -64,11 +64,11 @@ export default function Navbar() {
         {/* Right CTA Actions */}
         <div className="hidden md:flex items-center gap-3">
           <a
-            href="tel:+19255040101"
+            href="tel:+15732295394"
             className="flex items-center gap-1.5 text-xs text-slate-700 hover:text-blue-600 px-3 py-1.5 rounded-full transition-colors font-mono font-semibold"
           >
             <PhoneCall className="w-3.5 h-3.5 text-emerald-600 animate-pulse" />
-            +1 925 504 0101
+            +1 (573) 229-5394
           </a>
           <Link
             href="/onboarding"
@@ -114,10 +114,10 @@ export default function Navbar() {
             ))}
             <div className="pt-2 border-t border-slate-100 flex flex-col gap-2">
               <a
-                href="tel:+19255040101"
+                href="tel:+15732295394"
                 className="w-full py-2.5 rounded-xl bg-slate-100 text-slate-900 font-mono text-center text-xs font-bold block"
               >
-                Call: +1 925 504 0101
+                Call: +1 (573) 229-5394
               </a>
               <Link
                 href="/onboarding"

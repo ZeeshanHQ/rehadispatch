@@ -83,7 +83,7 @@ export default function ContactClientView() {
                   </div>
                   <div>
                     <div className="text-[10px] text-slate-400 uppercase">Direct Toll-Free Hotline</div>
-                    <a href="tel:+19255040101" className="text-white font-bold text-sm hover:text-sky-400 transition-colors">+1 925 504 0101</a>
+                    <a href="tel:+15732295394" className="text-white font-bold text-sm hover:text-sky-400 transition-colors">+1 (573) 229-5394</a>
                   </div>
                 </div>
 
@@ -144,7 +144,7 @@ export default function ContactClientView() {
                 </div>
                 <h3 className="text-xl font-display font-semibold text-slate-900">Inquiry Transmitted</h3>
                 <p className="text-slate-600 text-xs max-w-sm mx-auto">
-                  Thank you! Your message has been sent to <strong className="text-slate-900 font-mono">contact@rehadispatch.com</strong>. A Senior Logistics Strategist will call you back within 10 minutes at +1 925 504 0101.
+                  Thank you! Your message has been sent to <strong className="text-slate-900 font-mono">contact@rehadispatch.com</strong>. A Senior Logistics Strategist will call you back within 10 minutes at +1 (573) 229-5394.
                 </p>
                 <button
                   onClick={() => setSubmitted(false)}
@@ -176,7 +176,7 @@ export default function ContactClientView() {
                     <input
                       type="tel"
                       required
-                      placeholder="+1 (925) 504-0101"
+                      placeholder="+1 (573) 229-5394"
                       value={form.phone}
                       onChange={(e) => setForm({ ...form, phone: e.target.value })}
                       className="w-full px-3.5 py-2.5 rounded-xl bg-slate-50 border border-slate-200 text-slate-900 placeholder-slate-400 focus:outline-none focus:border-blue-600 text-xs font-mono"

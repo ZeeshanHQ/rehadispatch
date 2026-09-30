@@ -19,9 +19,10 @@ export const metadata: Metadata = {
     template: "%s | Reha Dispatch",
   },
   description:
-    "Reha Dispatch is an elite US truck dispatching and freight management agency for owner-operators and fleets. Top-dollar rate negotiation, 100% no forced dispatch, broker packet processing, and dedicated 24/7 dispatchers. Contact: contact@rehadispatch.com | Phone: +1 925 504 0101.",
+    "Reha Dispatch is an elite US truck dispatching and freight management agency for owner-operators and fleets. Top-dollar rate negotiation, 100% no forced dispatch, broker packet processing, and dedicated 24/7 dispatchers. Contact: contact@rehadispatch.com | Phone: +1 (573) 229-5394.",
   keywords: [
     "Reha Dispatch",
+    "Zeeshan",
     "truck dispatch service",
     "freight dispatch company",
     "independent truck dispatcher",
@@ -40,8 +41,11 @@ export const metadata: Metadata = {
     "Dallas freight dispatch",
     "contact@rehadispatch.com"
   ],
-  authors: [{ name: "Reha Dispatch LLC", url: "https://rehadispatch.com" }],
-  creator: "Reha Dispatch LLC",
+  authors: [
+    { name: "Zeeshan", url: "https://rehadispatch.com" },
+    { name: "Reha Dispatch LLC", url: "https://rehadispatch.com" }
+  ],
+  creator: "Zeeshan",
   publisher: "Reha Dispatch LLC",
   formatDetection: {
     email: false,
@@ -50,12 +54,19 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/icon-48.png", type: "image/png", sizes: "48x48" },
+      { url: "/icon-96.png", type: "image/png", sizes: "96x96" },
+      { url: "/icon-192.png", type: "image/png", sizes: "192x192" },
+      { url: "/icon.png", type: "image/png", sizes: "48x48" },
       { url: "/icon.svg", type: "image/svg+xml" },
-      { url: "/favicon.svg", type: "image/svg+xml" },
     ],
-    shortcut: "/icon.svg",
-    apple: "/icon.svg",
+    shortcut: "/favicon.ico",
+    apple: [
+      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
+    ],
   },
+  manifest: "/site.webmanifest",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -77,7 +88,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Reha Dispatch | Premier US Truck Dispatch & Freight Logistics",
     description:
-      "High-RPM freight orchestration and dedicated truck dispatching across the United States. Call +1 925 504 0101.",
+      "High-RPM freight orchestration and dedicated truck dispatching across the United States. Call +1 (573) 229-5394.",
     images: ["/hero_truck.jpg"],
   },
   robots: {

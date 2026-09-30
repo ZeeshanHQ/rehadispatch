@@ -132,7 +132,7 @@ export async function POST(req: Request) {
 
           <div class="footer">
             <p style="margin: 0;">Automated notification from Reha Dispatch & Operations Desk</p>
-            <p style="margin: 4px 0 0 0; font-size: 11px; color: #94a3b8;">contact@rehadispatch.com • +1 925 504 0101</p>
+            <p style="margin: 4px 0 0 0; font-size: 11px; color: #94a3b8;">contact@rehadispatch.com • +1 (573) 229-5394</p>
           </div>
         </div>
       </body>

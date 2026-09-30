@@ -13,10 +13,10 @@ export default function StructuredData() {
       "Reha Logistics Orchestration"
     ],
     "url": "https://rehadispatch.com",
-    "logo": "https://rehadispatch.com/icon.svg",
+    "logo": "https://rehadispatch.com/logo.png",
     "image": "https://rehadispatch.com/hero_truck.jpg",
     "description": "Reha Dispatch is a premier boutique US truck dispatch and freight management partner for owner-operators and fleet owners. Specializing in high-RPM lane strategy, rate con protection, broker credit checks, and 24/7 dispatching across all 48 lower states.",
-    "telephone": "+1-925-504-0101",
+    "telephone": "+1-573-229-5394",
     "email": "contact@rehadispatch.com",
     "priceRange": "$$",
     "currenciesAccepted": "USD",
@@ -133,6 +133,23 @@ export default function StructuredData() {
         }
       ]
     },
+    "founder": {
+      "@type": "Person",
+      "@id": "https://rehadispatch.com/#founder",
+      "name": "Zeeshan",
+      "jobTitle": "Founder & Managing Director",
+      "url": "https://rehadispatch.com",
+      "sameAs": [
+        "https://github.com/ZeeshanHQ"
+      ]
+    },
+    "employee": [
+      {
+        "@type": "Person",
+        "name": "Zeeshan",
+        "jobTitle": "Founder & Managing Director"
+      }
+    ],
     "sameAs": [
       "https://github.com/ZeeshanHQ/rehadispatch"
     ]
@@ -179,7 +196,7 @@ export default function StructuredData() {
         "name": "How can I contact Reha Dispatch support or dispatch hotline?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "You can reach our active 24/7 command center toll-free at +1 925 504 0101 or by emailing contact@rehadispatch.com. Our central headquarters is located at 1900 Victory Park Lane, Suite 1400, Dallas, TX 75201."
+          "text": "You can reach our active 24/7 command center toll-free at +1 (573) 229-5394 or by emailing contact@rehadispatch.com. Our central headquarters is located at 1900 Victory Park Lane, Suite 1400, Dallas, TX 75201."
         }
       }
     ]

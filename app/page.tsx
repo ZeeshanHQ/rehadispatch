@@ -28,9 +28,9 @@ export default function HomePage() {
 
             {/* Direct Contact Pills */}
             <div className="flex flex-wrap items-center gap-3 text-xs font-mono">
-              <a href="tel:+19255040101" className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-slate-100 border border-slate-200 text-slate-900 font-bold hover:bg-blue-50 hover:text-blue-600 transition-colors">
+              <a href="tel:+15732295394" className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-slate-100 border border-slate-200 text-slate-900 font-bold hover:bg-blue-50 hover:text-blue-600 transition-colors">
                 <PhoneCall className="w-3.5 h-3.5 text-emerald-600 animate-pulse" />
-                +1 925 504 0101
+                +1 (573) 229-5394
               </a>
               <a href="mailto:contact@rehadispatch.com" className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-slate-100 border border-slate-200 text-slate-900 font-bold hover:bg-blue-50 hover:text-blue-600 transition-colors">
                 <Mail className="w-3.5 h-3.5 text-blue-600" />
@@ -161,7 +161,7 @@ export default function HomePage() {
                 <span className="text-emerald-600 font-bold">● ACTIVE 24/7</span>
               </div>
               <p className="text-xs text-slate-700 font-sans">
-                Direct Hotline: <strong className="text-slate-900 font-mono">+1 925 504 0101</strong> | Email: <strong className="text-slate-900 font-mono">contact@rehadispatch.com</strong>
+                Direct Hotline: <strong className="text-slate-900 font-mono">+1 (573) 229-5394</strong> | Email: <strong className="text-slate-900 font-mono">contact@rehadispatch.com</strong>
               </p>
             </div>
           </div>
@@ -192,7 +192,7 @@ export default function HomePage() {
             </h2>
 
             <p className="text-slate-300 text-sm max-w-xl mx-auto leading-relaxed">
-              Join America's premier owner-operators earning $3.40+ average rate per mile with Reha Dispatch. Call us directly at +1 925 504 0101 or email contact@rehadispatch.com.
+              Join America's premier owner-operators earning $3.40+ average rate per mile with Reha Dispatch. Call us directly at +1 (573) 229-5394 or email contact@rehadispatch.com.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-3 pt-2">
